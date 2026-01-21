@@ -1,16 +1,104 @@
-## Hi there 👋
+# Hi 👋, I'm Bhumika Pandey
 
-<!--
-**bhumikaPandeyCodes/bhumikaPandeyCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web Developer | MERN Stack | Next.js | AI-integrated Apps**
 
-Here are some ideas to get you started:
+I’m a passionate Full Stack Developer with hands-on experience building **production-grade web applications** using modern technologies. I enjoy solving real-world problems, optimizing performance, and building scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 💼 **Full Stack Developer @ CMT AI, Noida**
+- 🔧 Built & deployed **6+ production web applications**
+- ⚡ Improved API response times by **45%** and reduced latency by **30%**
+- 🧠 Working on **AI-powered applications** using Gemini AI
+- 👥 Experience supporting apps with **1K+ concurrent users**
+- 🌱 Currently deepening skills in **system design & performance optimization**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js, Next.js, Redux Toolkit
+- HTML5, CSS3, Tailwind CSS
+
+**Backend**
+- Node.js, Express.js, REST APIs
+- MongoDB, PostgreSQL, Prisma
+
+**Tools & DevOps**
+- Git, GitHub, AWS S3, CI/CD
+- Postman, VS Code
+
+**Other**
+- WebSockets, JWT Authentication
+- Gemini AI, Razorpay Integration
+- Agile / Scrum
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 **VandeBharat – E-Commerce Platform**
+**Next.js | Node.js | MongoDB | AWS S3**
+- Scalable e-commerce app serving **500+ users**
+- Integrated Shiprocket for orders, tax & invoicing
+- Reduced initial load time by **25%**
+
+### 📄 **Lumyfolio – AI Resume & Portfolio Builder**
+**Gemini AI | Next.js | Tailwind**
+- AI-driven resume parsing & generation
+- Reduced manual effort by **60%**
+- Real-time previews & auto-deployment
+
+### 🗂️ **Recall – Content Management System**
+**React | Node.js | TypeScript**
+- Organized **750+ users’** content
+- Implemented role-based access control
+- Improved data retrieval speed by **20%**
+
+### 💬 **ChatSpace – Real-time Chat App**
+**React | WebSocket**
+- Low-latency real-time messaging system
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+👉 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Sirifort Institute of Management Studies, Delhi  
+📅 2021 – 2024
+
+---
+
+## 📜 Certifications
+
+- Web Development Bootcamp – Udemy  
+- 100xDevs – Web Development & DevOps  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [Bhumika Pandey](https://www.linkedin.com/in/bhumika-pandey-0a5901267/)
+- 📧 Email: *Add your professional email here*
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
