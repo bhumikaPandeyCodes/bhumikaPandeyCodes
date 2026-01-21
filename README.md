@@ -40,7 +40,7 @@ I’m a passionate Full Stack Developer with hands-on experience building **prod
 
 ## 🚀 Featured Projects
 
-### 🛒 **VandeBharat – E-Commerce Platform**
+### 🛒 **E-Commerce Platform**
 **Next.js | Node.js | MongoDB | AWS S3**
 - Scalable e-commerce app serving **500+ users**
 - Integrated Shiprocket for orders, tax & invoicing
@@ -67,25 +67,17 @@ I’m a passionate Full Stack Developer with hands-on experience building **prod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumikaPandeyCodes&show_icons=true&theme=react&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumikaPandeyCodes&layout=compact&theme=react&hide_border=true"/>
 </p>
 
-👉 Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
 
 ---
 
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Sirifort Institute of Management Studies, Delhi  
-📅 2021 – 2024
-
----
 
 ## 📜 Certifications
 
@@ -97,7 +89,7 @@ Sirifort Institute of Management Studies, Delhi
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [Bhumika Pandey](https://www.linkedin.com/in/bhumika-pandey-0a5901267/)
-- 📧 Email: *Add your professional email here*
+- 📧 Email: bhumicodes@gmail.com
 
 ---
 
