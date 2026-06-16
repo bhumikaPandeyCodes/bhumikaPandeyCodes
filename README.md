@@ -8,8 +8,8 @@ I’m a passionate Full Stack Developer with hands-on experience building **prod
 
 ## 👩‍💻 About Me
 
-- 💼 **Full Stack Developer @ CMT AI, Noida**
-- 🔧 Built & deployed **6+ production web applications**
+- 💼 **Full Stack Developer**
+- 🔧 Built & deployed **10+ production web applications**
 - ⚡ Improved API response times by **45%** and reduced latency by **30%**
 - 🧠 Working on **AI-powered applications** using Gemini AI
 - 👥 Experience supporting apps with **1K+ concurrent users**
